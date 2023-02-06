@@ -5,24 +5,24 @@ import Link from "next/link";
 
 const navData = [
   {
-    name: "Roadmap",
-    href: "/roadmap",
+    name: "About",
+    href: "/about",
+  },
+  {
+    name: "Team",
+    href: "/team",
+  },
+  {
+    name: "Tokenomics",
+    href: "/token",
   },
   {
     name: "Whitepaper",
-    href: "https://panda-six-flame.vercel.app/",
+    href: "/whitepaper",
   },
   {
-    name: "$MNGO",
-    href: "/mingo",
-  },
-  {
-    name: "Panda Spaces",
-    href: "/spaces",
-  },
-  {
-    name: "PMX",
-    href: "/pmx",
+    name: "Blog",
+    href: "/blog",
   },
   
 ];
@@ -50,7 +50,7 @@ export default function NavComponent() {
           <div className="flex justify-between items-center   py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
               <Link href="/home">
-                <img src="panda3.png" width='60'/>
+                <img src="log.png" width='60'/>
               </Link>
             </div>
             <div className="-mr-2 -my-2 sm:hidden">
@@ -60,7 +60,7 @@ export default function NavComponent() {
                     ref={ref}
                     className="fixed w-[24rem] right-0 top-0   p-2 h-[100vh]  transition transform md:hidden"
                   >
-                    <div className="rounded-lg shadow-lg  ring-1 h-full ring-black ring-opacity-5 bg-[#141628] border-[1px] border-red-100/20 text-white divide-y-2 divide-gray-50">
+                    <div className="rounded-lg shadow-lg  ring-1 h-full ring-black ring-opacity-5 bg-[#141628] border-[1px] border-sky-400 text-white divide-y-2 divide-gray-50">
                       <div className="pt-5 pb-6 px-5">
                         <div className="-mr-2 float-right mb-3">
                           <button
@@ -92,7 +92,7 @@ export default function NavComponent() {
                               <a
                                 key={item.name}
                                 href={item.href}
-                                className="-m-3 p-3 flex items-center rounded-md hover:bg-black  border-[1px] border-red-500/60"
+                                className="-m-3 p-3 flex items-center rounded-md hover:bg-black  border-[1px] border-sky-400/50"
                               >
                                 <h1 className="my-3 ml-3 text-3xl font-bold ">
                                   {item.name}

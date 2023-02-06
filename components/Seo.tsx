@@ -21,9 +21,9 @@ export default function SEO({ title, description, image,url }: Props) {
         property="og:description"
         content={description}
       />
-      <meta property="og:site_name" content="Pandamania.nft" />
+      <meta property="og:site_name" content="Viccci.xyz" />
 
-      <meta name="twitter:card" content="Pandamania.nft" />
+      <meta name="twitter:card" content="Viccci.xyz" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:site" content="@propernoun" />
@@ -47,7 +47,10 @@ export default function SEO({ title, description, image,url }: Props) {
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={image} />
       <meta name="robots" content="Index" />
-      <link rel="manifest" href="/manifest.json" />
+      {/*Favicon*/}
+      <link rel="apple-touch-icon" sizes="120x120" href="./log.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="./log.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="./log.png" />
 
 
     </Head>

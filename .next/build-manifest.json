@@ -15,6 +15,11 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,15 +30,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/pmx": [
+    "/team": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/pmx.js"
+      "static/chunks/pages/team.js"
     ],
-    "/spaces": [
+    "/token": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/spaces.js"
+      "static/chunks/pages/token.js"
+    ],
+    "/whitepaper": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/whitepaper.js"
     ]
   },
   "ampFirstPages": []

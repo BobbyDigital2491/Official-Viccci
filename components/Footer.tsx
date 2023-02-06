@@ -7,43 +7,50 @@ export default function Footer() {
         
 
         <footer className="max-w-screen-2xl px-4 md:px-8 mx-auto">
-          <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6">
+          <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6 border-sky-400">
             <nav className="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6">
               <a
-                href="https://discord.com/invite/vkMctx3PEd"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                href="https://discord.gg/RYWGjzHH"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Discord
               </a>
               <a
-                href="https://twitter.com/syndicatespanda"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                href="https://twitter.com/viccciprotocol"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
-                Pandamania Twitter
+                Twitter
               </a>
               <a
                 href="https://twitter.com/HMingos"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
-                Hashmingo Twitter
+                Mona Gallery
               </a>
               <a
-                href="https://spatial.io/s/Panda-Syndicate-62aa141728f2990001233c8c?share=2893630512926369723"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                href="/blog"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
-                Spatial
+                Blog
               </a>
-              <a
-                href="#"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              >
-                Contact
-              </a>
+              
                <a
                 href="#"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Team
+              </a>
+              <a
+                href="/roadmap"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
+              >
+                Roadmap
+              </a>
+              <a
+                href="#"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
+              >
+                Web 3 Factory
               </a>
             </nav>
             <div></div>
@@ -51,8 +58,8 @@ export default function Footer() {
 
           <div className="text-gray-400 text-sm text-start flex py-8 justify-between">
             <div className="flex">
-              <h1>Privacy Policy</h1>{" "}
-              <h1 className="ml-4"> Terms and Conditions</h1>
+              <h6>Privacy Policy</h6>{""}
+              <h6 className="ml-4"> Terms and Conditions</h6>
             </div>
             <div>Copyright © 2022 Sokoni</div>
           </div>
