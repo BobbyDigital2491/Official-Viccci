@@ -76,7 +76,7 @@ const Next3 = () => {
     </div>
 </section>
 <br/>
-<center><h1 className="text-3xl font-semibold text-white capitalize dark:text-white">Join Us <span className='blue'>Today</span></h1></center>
+<h1 className="text-3xl text-center font-semibold text-white capitalize dark:text-white">Join Us <span className='blue'>Today</span></h1>
 <br/>
     </div>
   )

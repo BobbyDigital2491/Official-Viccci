@@ -5,10 +5,10 @@ const TokenInfo = () => {
     <div className="bg-black">
     <div className="space-y-16 container xl:max-w-7xl mx-auto px-4 py-16 lg:px-8 lg:py-32">
       <div className="text-center">
-        <div className="text-sm uppercase font-bold tracking-wider mb-1 text-sky-400">
-          Viccci Protocol 
+        <div className="text-3xl uppercase font-bold tracking-wider mb-1 text-white">
+          Viccci <span className='blue'>Protocol</span> 
         </div>
-        <center><img src="/log.png" className="bg-white border-4 rounded-md" width="380"/></center>
+        <img src="/log.png" className="bg-white border-4 rounded-md h-auto max-w-sm mx-auto" />
        <br/>
         <h3 className="text-lg md:text-xl md:leading-relaxed font-medium text-white lg:w-2/3 mx-auto">
         The total supply of Viccci is limited and fixed, with no further tokens to be created or mined. A portion of the total 
@@ -85,7 +85,7 @@ const TokenInfo = () => {
 </section>
 <h1 className='text-white text-6xl border border-sky-400 rounded-lg py-8'>Total Supply: <span className='blue'>2.75m</span></h1>
 <br/>
-      <h3 className='text-white text-xl  hover:text-sky-400 active:text-white transition duration-100'><a href='whitepaper' >See <span className='blue'>Whitepaper</span> for further details</a></h3>
+      <h3 className='text-white text-xl  hover:text-grey active:text-white transition duration-100'><a href='whitepaper' >See <span className='blue'>Whitepaper</span> for further details</a></h3>
       </div>
     </div>
   </div>
