@@ -3,9 +3,9 @@ import React from 'react'
 const Faq = () => {
   return (
     <div>
-        <center><h1 className='py-2'>Frequently Asked
+        <h1 className='py-2 text-center'>Frequently Asked
           <span className='blue'>&nbsp;Questions</span> 
-        </h1></center>
+        </h1>
       <div className="bg-black border border-sky-400 divide-y divide-sky-400 rounded-xl">
   <details className="group p-6 [&_summary::-webkit-details-marker]:hidden" open>
     <summary className="flex items-center justify-between cursor-pointer">

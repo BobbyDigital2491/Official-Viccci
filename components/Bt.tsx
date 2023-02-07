@@ -6,7 +6,7 @@ export default function Bt() {
      
 
      <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-4xl dark:text-white text-center">Market <span className="blue">Analysis</span></h1>
-    <center><img className=" rounded-lg " src="https://miro.medium.com/max/620/0*dunTLlei47QWR7NR.gif" alt="" width={800} /></center>
+    <img className=" rounded-lg h-auto max-w-lg mx-auto " src="https://miro.medium.com/max/620/0*dunTLlei47QWR7NR.gif" alt="" width={800} />
     <br/>
     <p className="mb-3  font-light text-white text-center  dark:text-white">
     The crypto market has seen tremendous growth in recent years, with the total market capitalization of cryptocurrencies 
