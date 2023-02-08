@@ -6,7 +6,7 @@ const TokenInfo = () => {
     <div className="space-y-16 container xl:max-w-7xl mx-auto px-4 py-16 lg:px-8 lg:py-32">
       <div className="text-center">
         <div className="text-3xl uppercase font-bold tracking-wider mb-1 text-white">
-          Viccci <span className='blue'>Protocol </span> 
+          Viccci <span className='blue'>Protocol</span> 
         </div>
         <img src="/log.png" className="bg-white border-4 rounded-md h-auto max-w-sm mx-auto" />
        <br/>
