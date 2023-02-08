@@ -35,7 +35,7 @@ export default function Footer() {
               </a>
               
                <a
-                href="#"
+                href="/team"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Team
@@ -47,7 +47,7 @@ export default function Footer() {
                 Roadmap
               </a>
               <a
-                href="/team"
+                href="#"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Web 3 Factory
