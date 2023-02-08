@@ -46,7 +46,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
-                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-llQ59VKl84AX-ryik3&_nc_ht=scontent-lga3-1.xx&oh=00_AfCuRj4dXOJSAaJx6AqZnJetGobVhLO8DmnXaR4AXvq5yg&oe=63E30201" alt="Jese Avatar" />
+                  <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AA4SJ4nAunQAX_zYq8J&_nc_ht=scontent-lga3-1.xx&oh=00_AfBYNyyIzc7IawkVXAUIJPQrE7UTUV4rHmHdG5r7YMpeAQ&oe=63E8F0C1" alt="Quentyn Sellers" />
               </a>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
