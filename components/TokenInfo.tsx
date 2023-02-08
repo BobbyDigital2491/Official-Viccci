@@ -81,7 +81,7 @@ const TokenInfo = () => {
     </div>
   </div>
 </section>
-<h1 className='text-white text-6xl border border-sky-400 rounded-lg py-8'>Total Supply: <h1 className=''text-sky-400 text-6xl '>2.75m</h1></h1>
+<h1 className='text-white text-6xl border border-sky-400 rounded-lg py-8'>Total Supply: <span className='blue'>2.75m</span></h1>
 <br/>
       <h3 className='text-white text-xl  hover:text-grey active:text-white transition duration-100'><a href='whitepaper' >See <span className='blue'>Whitepaper</span> for further details</a></h3>
       </div>
@@ -91,4 +91,5 @@ const TokenInfo = () => {
 }
 
 export default TokenInfo
+
 
