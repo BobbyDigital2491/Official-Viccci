@@ -56,7 +56,7 @@ const TokenInfo = () => {
           </dt>
 
           <dd className="text-4xl font-extrabold text-sky-400 md:text-5xl">
-            27.5m
+            2.75m
           </dd>
         </div>
 
