@@ -16,7 +16,7 @@ export default function Footer() {
                 Discord
               </a>
               <a
-                href="https://twitter.com/viccciprotocol"
+                href="https://twitter.com/vicccip"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Twitter
