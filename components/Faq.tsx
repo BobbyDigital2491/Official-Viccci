@@ -194,7 +194,7 @@ const Faq = () => {
     </summary>
 
     <p className="mt-4 leading-relaxed text-white">
-    Viccci is a limited and fixed supply of 27.5 million tokens at the center of the Social Exchange ecosystem. A portion of the total supply is distributed to users through incentives and rewards programs, encouraging participation and growth. Viccci serves as the primary means of exchange on the platform, used for transactions, tipping, and rewards. With its value tied to the growth of the Social Exchange, Viccci serves not only as a means of exchange but also as a store of value. As the platform becomes more widely adopted, the value of Viccci is expected to increase. Join the Social Exchange ecosystem and become a part of the future of digital asset trading with Viccci.
+    Viccci is a limited and fixed supply of 2.75 million tokens at the center of the Social Exchange ecosystem. A portion of the total supply is distributed to users through incentives and rewards programs, encouraging participation and growth. Viccci serves as the primary means of exchange on the platform, used for transactions, tipping, and rewards. With its value tied to the growth of the Social Exchange, Viccci serves not only as a means of exchange but also as a store of value. As the platform becomes more widely adopted, the value of Viccci is expected to increase. Join the Social Exchange ecosystem and become a part of the future of digital asset trading with Viccci.
     </p>
   </details>
   
