@@ -22,10 +22,10 @@ export default function Footer() {
                 Twitter
               </a>
               <a
-                href="https://twitter.com/HMingos"
+                href="https://www.instagram.com/Viccci_Protocol/"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
-                Mona Gallery
+                Instagram
               </a>
               <a
                 href="/blog"
