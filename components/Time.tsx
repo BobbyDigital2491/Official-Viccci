@@ -31,7 +31,7 @@ const Time = () => {
                     Understanding the Basics of Blockchain and Cryptocurrency.
                     </h1>
                     
-                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 20 October 2019</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 21 January 2023</span>
                 </div>
             </div>
 
@@ -45,7 +45,7 @@ const Time = () => {
                     <h1 className="text-lg text-white  dark:text-white ">
                     A social exchange is a decentralized platform that combines features of social media with a cryptocurrency exchange....
                     </h1>
-                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 20 October 2019</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 6 February 2023</span>
                 </div>
             </div>
 
@@ -59,7 +59,7 @@ const Time = () => {
                     <h1 className="text-lg text-white  dark:text-white ">
                     The real time video chat platform built for Viccci Protocol....
                     </h1>
-                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 25 November 2020</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 7 February 2023</span>
                 </div>
             </div>
 
@@ -75,7 +75,7 @@ const Time = () => {
                     An in-depth look at Polygon Layer 2 technology.
                     </h1>
 
-                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 30 September 2020</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-300">On: 10 February 2020</span>
                 </div>
             </div>
 
