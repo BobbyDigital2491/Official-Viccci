@@ -40,9 +40,7 @@ const TokenInfo = () => {
       </h2>
 
       <p className="mt-4 text-white sm:text-xl">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores
-        laborum labore provident impedit esse recusandae facere libero harum
-        sequi.
+      Simplicity and ease-of-use...unlock the true potential of the decentralized social exchange
       </p>
     </div>
 
