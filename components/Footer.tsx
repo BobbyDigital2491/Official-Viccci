@@ -41,12 +41,6 @@ export default function Footer() {
                 Team
               </a>
               <a
-                href="/roadmap"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Roadmap
-              </a>
-              <a
                 href="#"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
