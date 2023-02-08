@@ -64,7 +64,7 @@ const BlogSec = () => {
                                 Robert Lawrence
                             </h1>
 
-                            <p className="text-sm text-gray-500 dark:text-gray-400">February 6, 2022</p>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">February 6, 2023</p>
                         </div>
 
                         <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
@@ -93,7 +93,7 @@ const BlogSec = () => {
                                 Robert Lawrence
                             </a>
 
-                            <p className="text-sm text-gray-500 dark:text-gray-400">February 19, 2022</p>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">February 10, 2023</p>
                         </div>
 
                         <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
