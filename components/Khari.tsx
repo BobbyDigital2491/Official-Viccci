@@ -16,7 +16,7 @@ const Khari = () => {
                 <h3 className="text-lg font-semibold text-white align-middle">Co-Founder<span className='blue'> / </span>Blockchain Developer</h3>
                 <br/>
                 <h3 className="text-lg  text-white">
-                     Born and raised in Greensboro North Carolina, Khari is a bright developer who has a strong interest in blockchain 
+                     Born and raised in Greensboro, North Carolina. Khari is a bright developer who has a strong interest in blockchain 
                      technology; he has been in the space for 11 years and has worked on some of the most well known projects such as 
                      Vyper the backend language for Ethereum; First blood a decentralized community for gamers and was a speaker at 
                      Cryptolina. 
