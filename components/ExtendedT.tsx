@@ -11,7 +11,7 @@ const ExtendedT = () => {
       </div> 
       <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
+              <a href="">
                   <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="bril.jpg" alt="Bril" />
               </a>
               <div className="p-5">
