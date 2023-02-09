@@ -11,9 +11,9 @@ const ExtendedT = () => {
       </div> 
       <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-              <a href="">
+              <div >
                   <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="bril.jpg" alt="Bril" />
-              </a>
+              </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                       <a className="text-white" href="#">Jibril <span className='blue'>Bethay</span></a>
@@ -36,9 +36,9 @@ const ExtendedT = () => {
               </div>
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
+              <div>
                   <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lE42mjR_cX8AX-_Ba69&_nc_ht=scontent-lga3-1.xx&oh=00_AfCFr1O1c47NZbMA7GF6xzABU5lOpiZNeRU3dCNNJB_tsQ&oe=63EAEB01" alt="Quentyn Sellers" />
-              </a>
+              </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                       <a href="#" className='text-white'>Quentyn <span className='blue'>Sellers</span></a>
@@ -61,9 +61,9 @@ const ExtendedT = () => {
               </div>
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
+              <div>
                   <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={900} src="https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/307972599_2114008585448661_4875268806780398333.jpg/:/cr=t:4.18%25,l:0%25,w:100%25,h:73.93%25/rs=w:365,h:365,cg:true" alt="Michael Avatar" />
-              </a>
+              </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                       <a href="#" className='text-white'>Tawny <span className='blue'>Jones</span></a>
@@ -86,9 +86,9 @@ const ExtendedT = () => {
               </div>
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
+              <div>
                   <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241165253_4167628113346339_3194721462302721637_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=JINhVOQ46gUAX9cGwNY&_nc_ht=scontent-lga3-1.xx&oh=00_AfD5S8E001P2ARQ5xx8tgwEYQXN3oNvHah-xji6iohrL2w&oe=63EAD63B" alt="Quan Adams" />
-              </a>
+              </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                       <a href="#" className='text-white'>Quan <span className='blue'>Adams</span></a>
@@ -118,4 +118,3 @@ const ExtendedT = () => {
 }
 
 export default ExtendedT
-
