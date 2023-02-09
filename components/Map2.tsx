@@ -7,7 +7,7 @@ const Map2 = () => {
          Road<span className='blue'>map</span>
         </h2><br/>
 
-        <img className="mx-auto rounded-lg max-w-full" src="map.png" alt="image description" />
+        <img className="mx-auto rounded-lg max-w-full" src="Screenshot 2023-02-08 at 7.30.00 PM" alt="image description" />
       
 
     </div>
