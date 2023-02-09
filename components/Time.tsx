@@ -24,7 +24,7 @@ const Time = () => {
                 <img className="object-cover w-full h-56 rounded-lg lg:w-64" src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="" />
 
                 <div className="flex flex-col justify-between py-6 lg:mx-6">
-                    <a href="/post" className="text-xl font-semibold text-white hover:underline dark:text-white ">
+                    <a href="/#" className="text-xl font-semibold text-white hover:underline dark:text-white ">
                         <span className='blue'>Crypto 101: Blockchain & Cryptocurrency</span>
                     </a>
                     <h1 className="text-lg text-white  dark:text-white ">
