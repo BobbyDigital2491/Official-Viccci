@@ -34,7 +34,7 @@ const Factory = () => {
     <div className="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 bg-black">
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -64,7 +64,7 @@ const Factory = () => {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -95,7 +95,7 @@ const Factory = () => {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -126,7 +126,7 @@ const Factory = () => {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -156,7 +156,7 @@ const Factory = () => {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -186,7 +186,7 @@ const Factory = () => {
 
       <a
         className="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-sky-400/10 hover:shadow-sky-400/10"
-        href="/services/digital-campaigns"
+        href="/#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
