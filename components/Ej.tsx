@@ -25,7 +25,7 @@ const Ej = () => {
                 financial sectors for over 10 years. He specializes in the capital markets and is a day trader in several markets 
                 specifically stock indexes. He has also done several courses on reading charts and the different languages. 
                 <br/><br/>
-                Professionally, EJ is has worked in Operations and Business Analytics where he has been extremely savvy in working data 
+                Professionally, EJ has worked in Operations and Business Analytics where he has been extremely savvy in working data 
                 applications and its respective software.The skill sets in Market analysis, risk management, tokenomics and analytics 
                 software will be an asset to Viccci protocol.</h3>
                 
