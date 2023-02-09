@@ -16,7 +16,7 @@ const Rob = () => {
                 <h3 className="text-lg font-semibold text-white align-middle">Co-Founder <span className='blue'>/</span> Lead Developer</h3>
                 <br/>
                 <h3 className="text-lg text-white">
-                Born and raised in Brooklyn,NY. Robert Lawrence is a self taught developer with expertise in full stack development, 
+                Born and raised in Brooklyn, NY. Robert Lawrence is a self taught developer with expertise in full stack development, 
                 C#, Unity & Blender. He is the lead developer of Viccci Protocol, a decentralized social exchange that is changing the way 
                 people trade and exchange digital assets. Robert's experience in developing robust and scalable software systems has been 
                 a valuable asset to the team, as he brings a unique blend of technical expertise and creative vision to the project. 
