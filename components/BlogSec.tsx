@@ -29,17 +29,17 @@ const BlogSec = () => {
                     <p className="mt-2 text-gray-500 dark:text-gray-400">
                     Understanding the Basics of Blockchain and Cryptocurrency.
                     </p>
-
+                    <br/>
                     <div className="flex items-center justify-between mt-4">
                         <div>
-                            <a href="#" className="text-lg font-medium text-white-700 dark:text-gray-300 ">
+                            <div className="text-lg font-medium text-white-700 dark:text-gray-300 ">
                                 Robert Lawrence
-                            </a>
+                            </div>
 
                             <p className="text-sm text-gray-500 dark:text-gray-400">January 21, 2023</p>
                         </div>
 
-                        <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
+                        <a href="/#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
                     </div>
 
                 </div>
@@ -60,11 +60,11 @@ const BlogSec = () => {
 
                     <div className="flex items-center justify-between mt-4">
                         <div>
-                            <h1 className="text-lg font-medium text-white dark:text-gray-300 ">
+                        <div className="text-lg font-medium text-white-700 dark:text-gray-300 ">
                                 Robert Lawrence
-                            </h1>
+                            </div>
 
-                            <p className="text-sm text-gray-500 dark:text-gray-400">February 6, 2023</p>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">February 6, 2022</p>
                         </div>
 
                         <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
@@ -89,11 +89,11 @@ const BlogSec = () => {
 
                     <div className="flex items-center justify-between mt-4">
                         <div>
-                            <a href="#" className="text-lg font-medium text-white dark:text-gray-300 ">
+                        <div className="text-lg font-medium text-white-700 dark:text-gray-300 ">
                                 Robert Lawrence
-                            </a>
+                            </div>
 
-                            <p className="text-sm text-gray-500 dark:text-gray-400">February 10, 2023</p>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">February 19, 2022</p>
                         </div>
 
                         <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
@@ -108,3 +108,4 @@ const BlogSec = () => {
 }
 
 export default BlogSec
+
