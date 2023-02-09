@@ -24,7 +24,7 @@ export default function Hero() {
         </p>
         <div>
           <a href="/about"><button className='m-2'>About</button></a>
-          <button className='m-2'>FAQ</button>
+          <a href="/whitepaper"><button className='m-2'>Whitepaper</button></a>
         </div>
       </div>
       <div>
