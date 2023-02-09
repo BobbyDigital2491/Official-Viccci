@@ -15,7 +15,7 @@ const Hero1 = () => {
       <br/><br/><br/><br/>
       <div className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
         <h1 className='py-2'>About&nbsp;
-          <span className='blue'>$VCI</span> 
+          <span className='blue'>$VCP</span> 
         </h1>
         <p className='text-xl py-4'>
         Viccci Protocol is a decentralized social exchange 
