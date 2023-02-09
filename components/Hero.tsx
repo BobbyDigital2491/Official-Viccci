@@ -19,7 +19,7 @@ export default function Hero() {
         users to own and monetize their own data, giving you complete control 
         over your information. Viccci offers a secure, decentralized platform 
         for your data management needs. Own your data and turn it into a valuable asset,
-        take back contol of your data. 
+        take back control of your data. 
         
         </p>
         <div>
