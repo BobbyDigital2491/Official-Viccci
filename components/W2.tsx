@@ -32,11 +32,11 @@ const W2 = () => {
               on the platform. In addition to its use as a means of exchange, Viccci will also serve as a store of value on the Social 
               Exchange platform. The value of Viccci will be determined by market demand and the growth of the Social Exchange ecosystem. 
               As the platform grows and becomes more widely adopted, the value of Viccci is expected to increase.The token distribution 
-              includes an Initial Token Offering (ITO) of 10% (275,000 tokens), a Community Development Fund of 15% (413,750 tokens), a Team
+              includes a launch of 10% (275,000 tokens), a Community Development Fund of 15% (413,750 tokens), a Team
                and Advisors allocation of 15% (413,750 tokens), and a Liquidity Pool of 60% (1,650,000 tokens). The Viccci Protocol 
                incentivizes its users through a portion of the trading fees, community participation, and staking. The token can be used 
                for trading on the exchange, governance of the platform, and access to premium features and services. Any unused or unsold 
-               tokens from the ITO will be burned, reducing the overall supply and increasing scarcity.
+               tokens from the launch will be burned, reducing the overall supply and increasing scarcity.
 
             </p>
           </article>
