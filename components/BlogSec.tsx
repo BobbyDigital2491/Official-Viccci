@@ -39,7 +39,7 @@ const BlogSec = () => {
                             <p className="text-sm text-gray-500 dark:text-gray-400">January 21, 2023</p>
                         </div>
 
-                        <a href="/post" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
+                        <a href="#" className="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
                     </div>
 
                 </div>
