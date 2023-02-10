@@ -5,7 +5,7 @@ const Hero2 = () => {
       <div className='w-full h-[90vh] top-[90px]'>
       <video
         className='object-cover h-full w-full absolute -z-10'
-        src="/video.mp4"
+        src="https://bafybeifmmgoeqny3kwqxswkdm7nhv3waa7hgp3e2ri5iomx3mbfgmxjbpm.ipfs.w3s.link/?filename=video+copy.mp4"
         autoPlay
         loop
         muted
