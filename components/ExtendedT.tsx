@@ -22,12 +22,12 @@ const ExtendedT = () => {
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Jibril Bethay drives the technical strategy of the Viccci platform and brand.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
-                          <a href="https://www.facebook.com/jibril.bethay" className="text-blue-500 hover:text-gray-900 dark:hover:text-white"  >
+                          <a href="#" className="text-blue-500 hover:text-gray-900 dark:hover:text-white"  >
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                           </a>
                       </li>
                       <li>
-                          <a href="https://twitter.com/MalikFMM" className="text-sky-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="#" className="text-sky-500 hover:text-gray-900 dark:hover:text-white">
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" /></svg>
                           </a>
                       </li>
@@ -37,7 +37,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lE42mjR_cX8AX-_Ba69&_nc_ht=scontent-lga3-1.xx&oh=00_AfCFr1O1c47NZbMA7GF6xzABU5lOpiZNeRU3dCNNJB_tsQ&oe=63EAEB01" alt="Quentyn Sellers" />
+                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KdN2--juvM8AX9224gt&_nc_ht=scontent-lga3-1.xx&oh=00_AfCUEIv37FhN8CHti8XS7cCvJzrLxFSQVUKp3AX4UB78iA&oe=63F2D401" alt="Quentyn Sellers" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -47,12 +47,12 @@ const ExtendedT = () => {
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Quentyn drives the technical strategy of the Viccci platform and brand.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
-                          <a href="https://www.facebook.com/quentyn.sellers.7" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="#" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                           </a>
                       </li>
                       <li>
-                          <a href="https://twitter.com/QSellers03" className="text-sky-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="#" className="text-sky-500 hover:text-gray-900 dark:hover:text-white">
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" /></svg>
                           </a>
                       </li>
@@ -69,10 +69,10 @@ const ExtendedT = () => {
                       <a href="#" className='text-white'>Tawny <span className='blue'>Jones</span></a>
                   </h3>
                   <span className="text-white dark:text-gray-400">Market Analyst / Research & Development</span>
-                  <p className="mt-3 mb-4 font-light text-whit dark:text-white">Tawny contributes unique social media strategies and creative concepts for Viccci.</p>
+                  <p className="mt-3 mb-4 font-light text-whit dark:text-white">TJ drives the technical strategy of the Viccci platform and brand.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
-                          <a href="https://www.facebook.com/tawnyjones" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="#" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                           </a>
                       </li>
@@ -87,7 +87,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241165253_4167628113346339_3194721462302721637_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=JINhVOQ46gUAX9cGwNY&_nc_ht=scontent-lga3-1.xx&oh=00_AfD5S8E001P2ARQ5xx8tgwEYQXN3oNvHah-xji6iohrL2w&oe=63EAD63B" alt="Quan Adams" />
+                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241165253_4167628113346339_3194721462302721637_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=ku4lL5z4zckAX8Kh6RW&_nc_ht=scontent-lga3-1.xx&oh=00_AfDt1Ly2dmFex-mnDBDy_rascuJJkkTlBGqWhskosy8IxQ&oe=63F2BF3B" alt="Quan Adams" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -97,7 +97,7 @@ const ExtendedT = () => {
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Quan drives the technical strategy of the Viccci platform and brand.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
-                          <a href="https://www.facebook.com/profile.php?id=100002975735219" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
+                          <a href="#" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
                               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                           </a>
                       </li>
