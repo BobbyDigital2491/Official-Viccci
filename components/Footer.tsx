@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6 border-sky-400">
             <nav className="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6">
               <a
-                href="https://discord.gg/RYWGjzHH"
+                href="https://discord.gg/kQrWW29djw"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
                 Discord
