@@ -15,7 +15,7 @@ const Hero4 = () => {
         <span className='blue'>paper</span>
       </h1>
       <p className='text-xl py-4'>
-      The Social Exchange is a decentralized platform built on the Ethereum blockchain. It uses smart contracts to enable trustless interactions between users, eliminating the need for intermediaries and allowing for fast, secure transactions. The platform is powered by a unique token, Viccci, which is used to incentivize and reward users for their contributions to the ecosystem.
+      The Social Exchange is a decentralized platform built on Polygon layer 2 technology. It uses smart contracts to enable trustless interactions between users, eliminating the need for intermediaries and allowing for fast, secure transactions. The platform is powered by a unique token, Viccci, which is used to incentivize and reward users for their contributions to the ecosystem.
  
       </p>
       <div>
