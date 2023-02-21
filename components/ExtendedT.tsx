@@ -37,7 +37,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/279887550_1355176321619652_7423713704318282225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KdN2--juvM8AX9224gt&_nc_ht=scontent-lga3-1.xx&oh=00_AfCUEIv37FhN8CHti8XS7cCvJzrLxFSQVUKp3AX4UB78iA&oe=63F2D401" alt="Quentyn Sellers" />
+                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafkreifyzzqcqs3z7z67d2drnj2yohzmoxqbiurmyhlovopo2pvv5owv64.ipfs.w3s.link/?filename=Q.png" alt="Quentyn Sellers" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -87,7 +87,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/241165253_4167628113346339_3194721462302721637_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=ku4lL5z4zckAX8Kh6RW&_nc_ht=scontent-lga3-1.xx&oh=00_AfDt1Ly2dmFex-mnDBDy_rascuJJkkTlBGqWhskosy8IxQ&oe=63F2BF3B" alt="Quan Adams" />
+                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeieqh46nm2uyugaeyycfmbr3tuknmxyupcwbohmmq6n6rhjsvlvmom.ipfs.w3s.link/QProfile.png" alt="Quan Adams" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
