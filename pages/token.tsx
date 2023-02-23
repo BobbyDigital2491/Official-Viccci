@@ -14,7 +14,7 @@ export default function token() {
           
         </div>
       </div>
-      <SEO title={"Viccci Protocol"} 
+      <SEO title={"Viccci Protocol Tokenomics"} 
       description={"Simplicity and ease-of-use...unlock the true potential of the decentralized social exchange."} 
       image={"log.png"} 
       url={"Viccci.xyz"}  />
