@@ -12,7 +12,7 @@ const Team = () => {
   return (
     <div>
       
-      <SEO title={"Viccci Protocol"} 
+      <SEO title={"Viccci Protocol Team"} 
           description={"Meet the team working on Viccci Protocol"} 
           image={"log.png"} 
           url={"Viccci.xyz"}  />
