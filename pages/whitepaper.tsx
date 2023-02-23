@@ -17,7 +17,7 @@ import W4 from '../components/W4';
 const whitepaper = () => {
   return (
     <div>
-        <SEO title={"Viccci Protocol"} 
+        <SEO title={"Viccci Protocol Whitepaper"} 
              description={"Check out the Viccci Protocol Whitepaper."} 
              image={".../public/log.png"} 
              url={"Viccci.xyz"}  />
