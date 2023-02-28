@@ -4,4 +4,4 @@
   <h1 align="center">Viccci Protocol</h1>
 
 
-##Built with Next.js, Typescript & Tailwind CSS
+## Built with Next.js, Typescript & Tailwind CSS
