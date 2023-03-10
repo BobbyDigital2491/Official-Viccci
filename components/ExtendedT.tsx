@@ -37,7 +37,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafkreifyzzqcqs3z7z67d2drnj2yohzmoxqbiurmyhlovopo2pvv5owv64.ipfs.w3s.link/?filename=Q.png" alt="Quentyn Sellers" />
+                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeibsomhxjm7se3tzdqryet6izpikqdeserjwyat4oenhlsqhydw7hy.ipfs.dweb.link/Q.png" alt="Quentyn Sellers" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -87,7 +87,7 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeieqh46nm2uyugaeyycfmbr3tuknmxyupcwbohmmq6n6rhjsvlvmom.ipfs.w3s.link/QProfile.png" alt="Quan Adams" />
+                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeieqh46nm2uyugaeyycfmbr3tuknmxyupcwbohmmq6n6rhjsvlvmom.ipfs.dweb.link/QProfile.png" alt="Quan Adams" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
