@@ -13,7 +13,7 @@ const Khari = () => {
 
             <div>
                 <h3 className="text-lg font-semibold text-sky-400 align-middle"><span className='blue'>Khari Baker</span></h3>
-                <h3 className="text-lg font-semibold text-white align-middle">Co-Founder<span className='blue'> / </span>Blockchain Developer</h3>
+                <h3 className="text-lg font-semibold text-white align-middle">Advisor<span className='blue'> / </span>Blockchain Developer</h3>
                 <br/>
                 <h3 className="text-lg  text-white">
                      Born and raised in Greensboro, North Carolina. Khari is a bright developer who has a strong interest in blockchain 
@@ -22,7 +22,7 @@ const Khari = () => {
                      Cryptolina. 
                      <br/><br/>
                      His most recent project was KYO that launched a blockchain course with an NFT that now has around 5K users. 
-                     With skills in community development; tokenomic architecture and blockchain research Khari is positioned to make 
+                     With skills in community development; tokenomic architecture and blockchain research Khari is positioned to help make 
                      Viccci scalable and sustainable as the Web 3 space continues to grow. </h3>
                 
             </div>
