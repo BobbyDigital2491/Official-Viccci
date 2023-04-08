@@ -27,9 +27,7 @@ export default function Hero() {
           <a href="/whitepaper"><button className='m-2'>Whitepaper</button></a>
         </div>
       </div>
-      <div>
-        <p className='text-center text-white text-2xl font-bold'><span className='blue'>Coming Soon:</span> March 2023</p>
-      </div>
+     
     </div>
   );
 }
