@@ -16,14 +16,15 @@ const Khari = () => {
                 <h3 className="text-lg font-semibold text-white align-middle">Co - Founder <span className='blue'> / </span>Blockchain Developer</h3>
                 <br/>
                 <h3 className="text-lg  text-white">
-                     Born and raised in Greensboro, North Carolina. Khari is a bright developer who has a strong interest in blockchain 
-                     technology; he has been in the space for 11 years and has worked on some of the most well known projects such as 
-                     Vyper the backend language for Ethereum; First blood a decentralized community for gamers and was a speaker at 
-                     Cryptolina. 
+                     Alfonzo Hamlin was born and raised in Richmond, VA. After graduating high school as valedictorian, he attended Norfolk
+                  State University and studied Computer Science with a full academic scholarship. While in college, Alfonzo started his 
+                  career in sales. Shortly after school, he started working as an insurance producer with the top insurance agency in the 
+                  US where he learned many entrepreneurial skills. After working over 10 years in sales and marketing, 
+                  Alfonzo opened his own insurance agency and used his entrepreneurial and sales skills to become a top producing agent 
+                  in the Carolinas.
                      <br/><br/>
-                     His most recent project was KYO that launched a blockchain course with an NFT that now has around 5K users. 
-                     With skills in community development; tokenomic architecture and blockchain research Khari is positioned to help make 
-                     Viccci scalable and sustainable as the Web 3 space continues to grow. </h3>
+                     With Alfonzo’s background in sales and marketing, his knowledge in computer science, and his passion to help build a
+                     greater community, Alfonzo is a great addition to the Viccci Protocol team. </h3>
                 
             </div>
         </div>
