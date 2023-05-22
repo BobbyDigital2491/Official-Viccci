@@ -37,14 +37,14 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeibsomhxjm7se3tzdqryet6izpikqdeserjwyat4oenhlsqhydw7hy.ipfs.dweb.link/Q.png" alt="Quentyn Sellers" />
+                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/128946528_863346100870650_5170873440052474406_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=GJYu6dX3bLEAX-zmftt&_nc_ht=scontent-lga3-1.xx&oh=00_AfDe4l_BkKKfpezn7Wjlcdb7L5sIXAoCYm-fERdXdiph5A&oe=649309A2" alt="Naiquawn Anderson" />
               </div>
               <div className="p-5">
                   <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                      <a href="#" className='text-white'>Quentyn <span className='blue'>Sellers</span></a>
+                      <a href="#" className='text-white'>Naiquawn <span className='blue'>Anderson</span></a>
                   </h3>
                   <span className="text-white dark:text-gray-400">Research and Development</span>
-                  <p className="mt-3 mb-4 font-light text-white dark:text-white">Quentyn drives the research and development side of Viccci protocol.</p>
+                  <p className="mt-3 mb-4 font-light text-white dark:text-white">Naiquawn drives the research and development side of Viccci protocol.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
                           <a href="https://www.facebook.com/quentyn.sellers" className="text-blue-500 hover:text-gray-900 dark:hover:text-white">
