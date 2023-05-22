@@ -8,12 +8,12 @@ const Khari = () => {
        
         <div className="grid grid-cols-1 mt-8 md:mt-20 gap-y-6 md:grid-cols-2 gap-x-10">
             <div>
-                <img className="w-full mx-auto sm:max-w-xs rounded-lg" src="https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/35654421_2148326938516522_7838537919059984384_.jpg/:/cr=t:0%25,l:21.67%25,w:75%25,h:100%25/rs=w:600,h:800,cg:true" alt="Khari Baker" />
+                <img className="w-full mx-auto sm:max-w-xs rounded-lg" src="zo.png" alt="Alfonzo Hamlin" />
             </div>
 
             <div>
-                <h3 className="text-lg font-semibold text-sky-400 align-middle"><span className='blue'>Khari Baker</span></h3>
-                <h3 className="text-lg font-semibold text-white align-middle">Co - Founder <span className='blue'> / </span>Blockchain Developer</h3>
+                <h3 className="text-lg font-semibold text-sky-400 align-middle"><span className='blue'>Alfonzo Hamlin</span></h3>
+                <h3 className="text-lg font-semibold text-white align-middle">Sales <span className='blue'> / </span>Marketing Strategy</h3>
                 <br/>
                 <h3 className="text-lg  text-white">
                      Alfonzo Hamlin was born and raised in Richmond, VA. After graduating high school as valedictorian, he attended Norfolk
