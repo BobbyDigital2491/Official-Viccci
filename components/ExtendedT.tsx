@@ -15,8 +15,8 @@ const ExtendedT = () => {
                   <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="bril.jpg" alt="Bril" />
               </div>
               <div className="p-5">
-                  <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                      <a className="text-white" href="#">Jibril <span className='blue'>Bethay</span></a>
+                  <h3 className="text-xl font-bold tracking-tight text-white dark:text-white">
+                      Jibril <span className='blue'>Bethay</span>
                   </h3>
                   <span className="text-white dark:text-gray-400">Market Analyst</span>
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Jibril Bethay drives the technical and market strategy of the Viccci protocol.</p>
@@ -37,11 +37,11 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="Quan.png" alt="Naiquawn Anderson" />
+                  <img className="rounded-lg sm:rounded-none sm:rounded-l-lg" width={400} height={200} src="Quan.png" alt="Naiquawn Anderson" />
               </div>
               <div className="p-5">
-                  <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                      <a href="#" className='text-white'>Naiquawn <span className='blue'>Anderson</span></a>
+                  <h3 className="text-xl font-bold tracking-tight text-white dark:text-white">
+                      Naiquawn <span className='blue'>Anderson</span>
                   </h3>
                   <span className="text-white dark:text-gray-400">Research and Development</span>
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Naiquawn drives the research and development side of Viccci protocol.</p>
@@ -62,11 +62,11 @@ const ExtendedT = () => {
           </div> 
           <div className="items-center bg-black rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
               <div>
-                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={900} src="https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/307972599_2114008585448661_4875268806780398333.jpg/:/cr=t:4.18%25,l:0%25,w:100%25,h:73.93%25/rs=w:365,h:365,cg:true" alt="Michael Avatar" />
+                  <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1800}  src="https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/307972599_2114008585448661_4875268806780398333.jpg/:/cr=t:4.18%25,l:0%25,w:100%25,h:73.93%25/rs=w:365,h:365,cg:true" alt="Tawny Jones" />
               </div>
               <div className="p-5">
-                  <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                      <a href="#" className='text-white'>Tawny <span className='blue'>Jones</span></a>
+                  <h3 className="text-xl font-bold tracking-tight text-white dark:text-white">
+                      Tawny <span className='blue'>Jones</span>
                   </h3>
                   <span className="text-white dark:text-gray-400">Research & Development</span>
                   <p className="mt-3 mb-4 font-light text-whit dark:text-white">Tawny contributes unique social media strategies and creative concepts to Viccci protocol.</p>
@@ -90,8 +90,8 @@ const ExtendedT = () => {
                   <img className=" rounded-lg sm:rounded-none sm:rounded-l-lg" width={1000} src="https://bafybeieqh46nm2uyugaeyycfmbr3tuknmxyupcwbohmmq6n6rhjsvlvmom.ipfs.dweb.link/QProfile.png" alt="Quan Adams" />
               </div>
               <div className="p-5">
-                  <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                      <a href="#" className='text-white'>Quan <span className='blue'>Adams</span></a>
+                  <h3 className="text-xl font-bold tracking-tight text-white dark:text-white">
+                      Quan <span className='blue'>Adams</span>
                   </h3>
                   <span className="text-white dark:text-gray-400">Lead Artist</span>
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Quan is the lead artist for for Viccci Protocol.</p>
