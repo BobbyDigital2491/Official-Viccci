@@ -43,7 +43,7 @@ const ExtendedT = () => {
                   <h3 className="text-xl font-bold tracking-tight text-white dark:text-white">
                       Naiquawn <span className='blue'>Anderson</span>
                   </h3>
-                  <span className="text-white dark:text-gray-400">Research and Development</span>
+                  <span className="text-white dark:text-gray-400">Research & Development</span>
                   <p className="mt-3 mb-4 font-light text-white dark:text-white">Naiquawn drives the research and development side of Viccci protocol.</p>
                   <ul className="flex space-x-4 sm:mt-0">
                       <li>
