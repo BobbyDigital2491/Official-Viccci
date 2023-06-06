@@ -41,10 +41,16 @@ export default function Footer() {
                 Team
               </a>
               <a
-                href="#"
+                href="https://vspaces.vercel.app/"
                 className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
               >
-                Web 3 Factory
+                V Spaces
+              </a>
+               <a
+                href="https://birds-three.vercel.app/"
+                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
+              >
+                Early Bird NFT Drop
               </a>
             </nav>
             <div></div>
