@@ -9,8 +9,7 @@ const Hero = () => {
                 class="relative rounded-full px-4 py-1.5 text-sm leading-6 text-white ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
                 <span class="hidden md:inline">We Build Software.</span>
                 <a target="_blank" class="font-semibold text-sky-400">
-                    <span class="absolute inset-0" ></span> Read
-                    the docs <span>→</span>
+                    <span class="absolute inset-0" ></span> For Your Business <span>→</span>
                 </a>
             </p>
         </div>
