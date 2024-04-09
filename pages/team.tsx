@@ -1,27 +1,27 @@
 import React from 'react';
-import NavComponent from '../components/NavComponent';
 import Footer from '../components/Footer';
-import Ej from '../components/Ej';
-import Rob from '../components/Rob';
-import Khari from '../components/Khari';
 import SEO from '../components/Seo';
-import Hero3 from '../components/Hero3';
-import ExtendedT from '../components/ExtendedT';
+import Nav from '../components/Nav';
+import Teams from '../components/Teams';
+import Hero2 from '../components/Hero2';
+import Mission from '../components/Mission';
+import Gallery from '../components/Gallery';
 
 const Team = () => {
   return (
     <div>
-      
       <SEO title={"Viccci Protocol Team"} 
           description={"Meet the team working on Viccci Protocol"} 
           image={"log.png"} 
           url={"Viccci.xyz"}  />
-      <NavComponent />
-      <Hero3 />
-      <Ej />
-      <Rob />
-      <Khari />
-      <ExtendedT />
+      <Nav />
+      <div className=" mt-32"></div>
+      <Hero2/>
+      <Teams />
+      <div className=" mt-32"></div>
+      <Mission/>
+      <Gallery/>
+      
       <Footer />
     </div>
     

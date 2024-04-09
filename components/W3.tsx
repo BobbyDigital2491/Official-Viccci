@@ -5,7 +5,7 @@ const W3 = () => {
     <div>
         <section className="bg-black dark:bg-black">
     <div className="container px-6 py-10 mx-auto">
-        <h1 className="text-4xl font-semibold text-white capitalize lg:text-4xl dark:text-white">Our   <span className='blue'>Solution</span></h1>
+        <h1 className="text-4xl font-semibold text-white capitalize lg:text-4xl dark:text-white">Our   <span className=' text-sky-400'>Solution</span></h1>
         <br/>
         
 

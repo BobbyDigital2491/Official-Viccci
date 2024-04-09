@@ -5,7 +5,7 @@ export default function Bt() {
     <div>
      
 
-     <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-4xl dark:text-white text-center">Market <span className="blue">Analysis</span></h1>
+     <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-4xl dark:text-white text-center">Market <span className=" text-sky-400">Analysis</span></h1>
     <img className=" rounded-lg h-auto max-w-lg mx-auto " src="https://miro.medium.com/max/620/0*dunTLlei47QWR7NR.gif" alt="" width={800} />
     <br/>
     <p className="mb-3  font-light text-white text-center  dark:text-white">

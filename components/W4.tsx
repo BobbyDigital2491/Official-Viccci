@@ -5,7 +5,7 @@ const W4 = () => {
     <div>
         <section className="bg-black dark:bg-black">
     <div className="container px-6 py-10 mx-auto">
-        <h1 className="text-4xl font-semibold text-white capitalize lg:text-4xl dark:text-white">Technical <span className='blue'>Details</span></h1>
+        <h1 className="text-4xl font-semibold text-white capitalize lg:text-4xl dark:text-white">Technical <span className=' text-sky-400'>Details</span></h1>
         
 
         <div className="mt-1 xl:mt-1 lg:flex lg:items-center">

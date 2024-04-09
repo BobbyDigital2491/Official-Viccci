@@ -1,70 +1,64 @@
 import React from "react";
 
-export default function Footer() {
+const Footer = () => {
   return (
-    <>
-      <div className=" pt-4 sm:pt-10 lg:pt-12">
-        
-
-        <footer className="max-w-screen-2xl px-4 md:px-8 mx-auto">
-          <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6 border-sky-400">
-            <nav className="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6">
-              <a
-                href="https://discord.gg/kQrWW29djw"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Discord
-              </a>
-              <a
-                href="https://twitter.com/vicccip"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Twitter
-              </a>
-              <a
-                href="https://www.instagram.com/Viccci_Protocol/"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Instagram
-              </a>
-              <a
-                href="/blog"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Blog
-              </a>
-              
-               <a
-                href="/team"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Team
-              </a>
-              <a
-                href="https://vspaces.vercel.app/"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                V Spaces
-              </a>
-               <a
-                href="https://birds-three.vercel.app/"
-                className="text-white hover:text-sky-400 active:text-indigo-600 transition duration-100"
-              >
-                Early Bird NFT Drop
-              </a>
-            </nav>
-            <div></div>
+    <footer className="bg-black text-white py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col md:flex-row justify-between items-center border-t border-b border-gray-800 py-6">
+          <div className="flex items-center">
+            <img src="/log.png" className="h-12" alt="Logo" />
+            <h1 className="px-4 text-xl font-bold">Viccci <span className="text-sky-400">Protocol</span></h1>
           </div>
+          <nav className="flex flex-wrap justify-center md:justify-start gap-4 md:gap-6">
+            <a
+              href="/services"
+              className="hover:text-sky-400"
+            >
+              Services
+            </a>
+            <a href="https://twitter.com/vicccip" className="hover:text-sky-400">
+              Twitter
+            </a>
+            <a
+              href="https://www.instagram.com/Viccci_Protocol/"
+              className="hover:text-sky-400"
+            >
+              Instagram
+            </a>
+            <a href="/class" className="hover:text-sky-400">
+              Classes
+            </a>
+            <a href="/team" className="hover:text-sky-400">
+              Team
+            </a>
+            <a
+              href="https://vspaces.vercel.app/"
+              className="hover:text-sky-400"
+            >
+              V Spaces
+            </a>
+            <a href="/vcp" className="hover:text-sky-400">
+              VCP Token
+            </a>
+          </nav>
+        </div>
 
-          <div className="text-gray-400 text-sm text-start flex py-8 justify-between">
-            <div className="flex">
-              <h6>Privacy Policy</h6>{""}
-              <h6 className="ml-4"> Terms and Conditions</h6>
-            </div>
-            <div>Copyright © 2022 Sokoni</div>
+        <div className="mt-8 flex justify-between items-center text-sm">
+          <div className="flex space-x-4">
+            <a href="/privacy" className="hover:text-sky-400">
+              Privacy Policy
+            </a>
+            <a href="/terms" className="hover:text-sky-400">
+              Terms and Conditions
+            </a>
           </div>
-        </footer>
+          <div className="text-gray-400">
+            &copy; {new Date().getFullYear()} Sokoni
+          </div>
+        </div>
       </div>
-    </>
+    </footer>
   );
-}
+};
+
+export default Footer;

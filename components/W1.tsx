@@ -6,7 +6,7 @@ const W1 = () => {
       <section>
   <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
   <h2 className="text-4xl font-bold sm:text-4xl text-center  ">
-        The <span className='blue'>Problem</span>
+        The <span className=' text-sky-400'>Problem</span>
       </h2>
     <div className="max-w-3xl">
      

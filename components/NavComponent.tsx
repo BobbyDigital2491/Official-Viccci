@@ -49,7 +49,7 @@ export default function NavComponent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 ">
           <div className="flex justify-between items-center   py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="/home">
+              <Link href="/">
                 <img src="log.png" width='60'/>
               </Link>
             </div>
@@ -129,7 +129,7 @@ export default function NavComponent() {
                 )}
               </>
             </div>
-            <nav className="hidden sm:flex space-x-10 items-center">
+            <nav className="hidden text-white sm:flex space-x-10 items-center">
               {navData.map((n) => {
                 return (
                   <Link key={n.name} href={n.href}>

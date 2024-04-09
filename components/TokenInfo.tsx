@@ -6,7 +6,7 @@ const TokenInfo = () => {
     <div className="space-y-16 container xl:max-w-7xl mx-auto px-4 py-16 lg:px-8 lg:py-32">
       <div className="text-center">
         <div className="text-3xl uppercase font-bold tracking-wider mb-1 text-white">
-          Viccci <span className='blue'>Protocol</span> 
+          Viccci <span className='text-sky-400'>Protocol</span> 
         </div>
         <img src="/log.png" className="bg-white border-4 rounded-md h-auto max-w-sm mx-auto" />
        <br/>
@@ -22,21 +22,21 @@ const TokenInfo = () => {
         <br/>
         <br/>
         <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-white">
-        Key <span className="blue">Features</span>
+        Key <span className="text-sky-400">Features</span>
         </h2>
         <br/>
-        <li><span className="blue">Decentralized</span>: The Social Exchange is built on the Ethereum blockchain, offering a decentralized and secure environment for social interactions and transactions.</li>
-        <li><span className="blue">Incentivized</span>: Viccci is used to incentivize and reward users for their contributions to the Social Exchange ecosystem. This encourages active participation and helps to drive growth on the platform.</li>
-        <li><span className="blue">User-friendly</span>: The Social Exchange platform is designed to be intuitive and user-friendly, making it accessible to users of all experience levels.</li>
-        <li><span className="blue">Scalable</span>: The Social Exchange is built on a highly scalable architecture, allowing it to support a large and growing user base.</li>
-        <li><span className="blue">Layer 2</span>: Built using Polygon which is able to fully benefit from Ethereum’s network effects. Scalable, secure, with low transaction fees. In addition to all these features Polygon has a robust system of tools to aid in the development process.</li>
+        <li><span className="text-sky-400">Decentralized</span>: The Social Exchange is built on the Ethereum blockchain, offering a decentralized and secure environment for social interactions and transactions.</li>
+        <li><span className="text-sky-400">User-friendly</span>: The Social Exchange platform is designed to be intuitive and user-friendly, making it accessible to users of all experience levels.</li>
+        <li><span className="text-sky-400">Incentivized</span>: Viccci is used to incentivize and reward users for their contributions to the Social Exchange ecosystem. This encourages active participation and helps to drive growth on the platform.</li>
+        <li><span className="text-sky-400">Scalable</span>: The Social Exchange is built on a highly scalable architecture, allowing it to support a large and growing user base.</li>
+        <li><span className="text-sky-400">Layer 2</span>: Built using Polygon which is able to fully benefit from Ethereum’s network effects. Scalable, secure, with low transaction fees. In addition to all these features Polygon has a robust system of tools to aid in the development process.</li>
         </h3>
 
         <section className="bg-black">
   <div className="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8">
     <div className="mx-auto max-w-3xl text-center">
       <h2 className="text-3xl font-bold text-white sm:text-4xl">
-        Sometimes <span className='blue'>simple is better</span>
+        Sometimes <span className='text-sky-400'>simple</span> is better
       </h2>
 
       <p className="mt-4 text-white sm:text-xl">
@@ -81,7 +81,7 @@ const TokenInfo = () => {
     </div>
   </div>
 </section>
-<h1 className='text-white text-6xl border border-sky-400 rounded-lg py-8'>Total Supply: <h1 className='text-sky-400 text-6xl'>2.75m</h1></h1>
+<h1 className=' text-sky-400 text-6xl border border-sky-400 rounded-lg py-8'>Total Supply: <span className='text-white text-6xl'>2.75m</span></h1>
 <br/>
       <h3 className='text-white text-xl  hover:text-grey active:text-white transition duration-100'><a href='whitepaper' >See <span className='blue'>Whitepaper</span> for further details</a></h3>
       </div>

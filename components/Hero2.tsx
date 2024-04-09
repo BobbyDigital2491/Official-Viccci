@@ -2,36 +2,39 @@ import React from 'react'
 
 const Hero2 = () => {
   return (
-      <div className='w-full h-[90vh] top-[90px]'>
-      <video
-        className='object-cover h-full w-full absolute -z-10'
-        src="https://bafybeiegubvvc553ux2joxq5qbyiypmvgavvhdrk7tckpgufby7q65j4ra.ipfs.dweb.link/video%20copy.mp4"
-        autoPlay
-        loop
-        muted
-      />
-      <br/><br/>
-      <div className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
-        <h1 className='py-2'>Token
-          <span className='blue'>omics</span> 
-        </h1>
-        <p className='text-xl py-4'>
-        Viccci is a limited and fixed supply token at the center of the Social Exchange ecosystem. 
-        A portion of the total supply is distributed to users through incentives and rewards programs, 
-        encouraging participation and growth. Viccci serves as the primary means of exchange on the platform, used for transactions, 
-        tipping, and rewards. With its value tied to the growth of the Social Exchange, Viccci serves not only as a means of exchange 
-        but also as a store of value. As the platform becomes more widely adopted, the value of Viccci is expected to increase. Join the 
-        Social Exchange ecosystem and become a part of the future of digital asset trading with Viccci.
-        </p>
-        <div>
-          
+    <div className="py-12 sm:py-24">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="mb-8 flex justify-center">
+            <p
+                className="relative rounded-full px-4 py-1.5 text-sm leading-6 text-white ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
+                <span className="hidden md:inline">We Build Software.</span>
+                <a href="#" target="_blank" className="font-semibold text-sky-400">
+                    <span className="absolute inset-0" ></span> Learn
+                    more <span>→</span>
+                </a>
+            </p>
         </div>
-      </div>
-      <div>
+        <div className="mx-auto max-w-2xl text-center">
+            <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
+                Meet the team at <br/> <span className='text-sky-400'>Viccci Protocol</span>
+            </h1>
+            <p className="mt-6 text-lg leading-8 text-gray-200">
+            Transform your business with tailored solutions crafted by our expert team of software developers. 
+            We specialize in building custom software that accelerates innovation and drives results for your unique needs.
+            </p>
+            <div className="mt-10 flex items-center justify-center gap-x-6">
+                <a href="#"
+                    className="rounded-md bg-sky-400 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-sky-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-grey-200">Our Services
+                </a>
+                <a href="/about" className="text-sm font-semibold leading-6 hover:text-sky-400 text-white">
+                    Learn more
+                    <span> → </span>
+                </a>
+            </div>
+        </div>
         
-      </div>
-    
     </div>
+</div>
   )
 }
 
