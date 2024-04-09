@@ -8,7 +8,7 @@ const Hero = () => {
             <p
                 class="relative rounded-full px-4 py-1.5 text-sm leading-6 text-white ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
                 <span class="hidden md:inline">We Build Software.</span>
-                <a href="#" target="_blank" class="font-semibold text-sky-400">
+                <a target="_blank" class="font-semibold text-sky-400">
                     <span class="absolute inset-0" ></span> Read
                     the docs <span>→</span>
                 </a>
@@ -23,11 +23,11 @@ const Hero = () => {
             We specialize in building custom software that accelerates innovation and drives results for your unique needs.
             </p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
-                <a href="#"
-                    class="rounded-md bg-sky-400 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">Check
+                <a href="/services"
+                    class="rounded-md bg-sky-400 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-sky-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-400">Check
                     out the demo
                 </a>
-                <a href="#" class="text-sm font-semibold leading-6 text-white">
+                <a href="/about" class="text-sm font-semibold leading-6 text-white">
                     Learn more
                     <span> → </span>
                 </a>
