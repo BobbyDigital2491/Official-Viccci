@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import SEO from '../components/Seo'
 import Services from '../components/Services'
 import Hero3 from '../components/Hero3'
+import Start from '../components/Start'
 
 const services = () => {
   return (
@@ -16,6 +17,7 @@ const services = () => {
         <div className=" mt-32"></div>
         <Hero3/>
         <Services/>
+        <Start/> 
         <Footer/>
     </div>
   )
