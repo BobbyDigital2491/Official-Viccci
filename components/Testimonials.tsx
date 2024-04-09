@@ -101,7 +101,7 @@ const Testimonials = () => {
                     <div className="relative group">
                         <div
                             className="absolute transition rounded-lg opacity-25 -inset-1 bg-gradient-to-r  from-sky-200 to-blue-600 blur duration-400 group-hover:opacity-100 group-hover:duration-200">
-                        </div><a href="https://twitter.com/tim_cook" className="cursor-pointer">
+                        </div><a href="https://www.instagram.com/devon.tomlin?igshid=NzZhOTFlYzFmZQ%3D%3D" className="cursor-pointer">
                             <div
                                 className="relative p-6 space-y-6 leading-none rounded-lg bg-slate-600 ring-1 ring-gray-900/5">
                                 <div className="flex items-center space-x-4">
@@ -129,7 +129,7 @@ const Testimonials = () => {
                     <div className="relative group">
                         <div
                             className="absolute transition rounded-lg opacity-25 -inset-1 bg-gradient-to-r  from-sky-200 to-blue-600 blur duration-400 group-hover:opacity-100 group-hover:duration-200">
-                        </div><a href="https://twitter.com/satyanadella" className="cursor-pointer">
+                        </div><a href="https://www.facebook.com/ken.butler.75" className="cursor-pointer">
                             <div
                                 className="relative p-6 space-y-6 leading-none rounded-lg bg-slate-600 ring-1 ring-gray-900/5">
                                 <div className="flex items-center space-x-4">
@@ -153,7 +153,7 @@ const Testimonials = () => {
                     <div className="relative group">
                         <div
                             className="absolute transition rounded-lg opacity-25 -inset-1 bg-gradient-to-r  from-sky-200 to-blue-600 blur duration-400 group-hover:opacity-100 group-hover:duration-200">
-                        </div><a href="https://twitter.com/satyanadella" className="cursor-pointer">
+                        </div><a href="https://twitter.com/birdperson__?lang=en" className="cursor-pointer">
                             <div
                                 className="relative p-6 space-y-6 leading-none rounded-lg bg-slate-600 ring-1 ring-gray-900/5">
                                 <div className="flex items-center space-x-4">
