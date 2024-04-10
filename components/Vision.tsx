@@ -9,7 +9,7 @@ const Vision = () => {
 
             <div className="lg:text-center">
                 <h2
-                    className="font-heading mb-4 bg-gray-100 text-orange-800 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest dark:text-sky-400 uppercase title-font">
+                    className="font-heading mb-4 bg-gray-100 text-sky-400 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest dark:text-sky-400 uppercase title-font">
                     Why you need a website.
                 </h2>
                 <p className="font-heading mt-2 text-3xl leading-8 font-semibold tracking-tight text-white sm:text-4xl">
