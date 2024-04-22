@@ -3,7 +3,7 @@ import React from 'react';
 const Team = () => {
   const team = [
     {
-      avatar: "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/215165627_10158703911782600_4023616782383536024_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=r8j8taE1ZAQAb55AfLh&_nc_ht=scontent-lga3-2.xx&oh=00_AfCfQ3p0_NgPaQnIhpqFhddIgbqf2eXIfxt34uizLCBzSg&oe=661896D9",
+      avatar: "https://bhgqpgjoaqvoeezspsyn.supabase.co/storage/v1/object/public/viccci/image%20(1).png",
       name: "Ej Gailliard",
       title: "Co - Founder / Data Analyst",
       desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",

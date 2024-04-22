@@ -1,4 +1,5 @@
 import { useState } from "react"
+import VideoPlayer from "./VideoPlayer"
 
 export default () => {
     const features = [
@@ -11,7 +12,7 @@ export default () => {
 
         },
         {
-            name: "Over 50+ videos",
+            name: "IOS & Android",
             icon:
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                     <path fillRule="evenodd" d="M1 4.75C1 3.784 1.784 3 2.75 3h14.5c.966 0 1.75.784 1.75 1.75v10.515a1.75 1.75 0 01-1.75 1.75h-1.5c-.078 0-.155-.005-.23-.015H4.48c-.075.01-.152.015-.23.015h-1.5A1.75 1.75 0 011 15.265V4.75zm16.5 7.385V11.01a.25.25 0 00-.25-.25h-1.5a.25.25 0 00-.25.25v1.125c0 .138.112.25.25.25h1.5a.25.25 0 00.25-.25zm0 2.005a.25.25 0 00-.25-.25h-1.5a.25.25 0 00-.25.25v1.125c0 .108.069.2.165.235h1.585a.25.25 0 00.25-.25v-1.11zm-15 1.11v-1.11a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v1.125a.25.25 0 01-.164.235H2.75a.25.25 0 01-.25-.25zm2-4.24v1.125a.25.25 0 01-.25.25h-1.5a.25.25 0 01-.25-.25V11.01a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25zm13-2.005V7.88a.25.25 0 00-.25-.25h-1.5a.25.25 0 00-.25.25v1.125c0 .138.112.25.25.25h1.5a.25.25 0 00.25-.25zM4.25 7.63a.25.25 0 01.25.25v1.125a.25.25 0 01-.25.25h-1.5a.25.25 0 01-.25-.25V7.88a.25.25 0 01.25-.25h1.5zm0-3.13a.25.25 0 01.25.25v1.125a.25.25 0 01-.25.25h-1.5a.25.25 0 01-.25-.25V4.75a.25.25 0 01.25-.25h1.5zm11.5 1.625a.25.25 0 01-.25-.25V4.75a.25.25 0 01.25-.25h1.5a.25.25 0 01.25.25v1.125a.25.25 0 01-.25.25h-1.5zm-9 3.125a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5z" clipRule="evenodd" />
@@ -45,7 +46,7 @@ export default () => {
                     <h1 className="text-4xl text-white font-extrabold mx-auto md:text-5xl">
                         Augmentique <span className="text-sky-400">App</span>
                     </h1>
-                    <p className="max-w-xl mx-auto xl:mx-0">
+                    <p className="max-w-xl mx-auto xl:mx-0 text-slate-200">
                         Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
                     </p>
                     <div className="items-center justify-center gap-x-3 space-y-3 sm:flex sm:space-y-0 xl:justify-start">
@@ -63,7 +64,7 @@ export default () => {
                 </div>
                 <div className="flex-1 max-w-xl mx-auto mt-14 xl:mt-0">
                     <div className="relative">
-                        <img src="https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" className="rounded-lg" alt="" />
+                        <img src="https://i0.wp.com/metrology.news/wp-content/uploads/2022/01/7-Ways-Augmented-Reality-Can-Upgrade-Manufacturing-Processes.jpg?resize=800%2C445&ssl=1" className="rounded-lg" alt="" />
                         <button className="absolute w-16 h-16 rounded-full inset-0 m-auto duration-150 bg-blue-500 hover:bg-blue-600 ring-offset-2 focus:ring text-white"
                             onClick={() => setVideoPopUp(true)}
                         >
@@ -87,9 +88,7 @@ export default () => {
                                     <path d="M6.28 5.22a.75.75 0 00-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 101.06 1.06L10 11.06l3.72 3.72a.75.75 0 101.06-1.06L11.06 10l3.72-3.72a.75.75 0 00-1.06-1.06L10 8.94 6.28 5.22z" />
                                 </svg>
                             </button>
-                            <video className="rounded-lg w-full max-w-2xl" controls autoPlay={true}>
-                                <source src="https://youtu.be/NfC9duIA4wY?si=2YU9cpQ4KzqWUlPy" type="video/mp4" />
-                            </video>
+                           <VideoPlayer/>
                         </div>
                     </div>
                 ) : ""
