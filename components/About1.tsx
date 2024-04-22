@@ -14,7 +14,7 @@ const About = () => {
 
             <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
                 <div className="sm:text-center lg:text-left">
-                    <h2 className="my-6 text-xl tracking-tight font-extrabold text-white sm:text-3xl md:text-5xl">
+                    <h2 className="my-6 text-5xl tracking-tight font-extrabold text-white sm:text-3xl md:text-5xl">
                         About <span className='text-sky-400'>us</span>
                     </h2>
 
