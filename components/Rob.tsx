@@ -10,7 +10,7 @@ const Rob = () => {
 
        
         <div className="sm:w-[80%] xs:w-[90%] mx-auto flex">
-            <img src="https://img1.wsimg.com/isteam/ip/c62ec2e6-ed0a-4c01-a452-434d38fb7244/Rpb.jpeg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:600,h:800,cg:true" alt="User Profile"
+            <img src="https://zszleipyxmxmhjomwqtk.supabase.co/storage/v1/object/public/avatars/a1/Rpb.jpg" alt="User Profile"
                     className="rounded-md lg:w-[12rem] lg:h-[12rem] md:w-[10rem] md:h-[10rem] sm:w-[8rem] sm:h-[8rem] xs:w-[7rem] xs:h-[7rem] outline outline-2 outline-offset-2 outline-blue-500 relative lg:bottom-[5rem] sm:bottom-[4rem] xs:bottom-[3rem]" />
 
            
