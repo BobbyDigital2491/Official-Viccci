@@ -10,7 +10,7 @@ const Team = () => {
       profile: "/ej",
     },
     {
-      avatar: "https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/138327123_4089409134408752_976800681428512076_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wNlCdsdN2HwAb5dmc5d&_nc_oc=Adi88OWOSXgeSb6g9cqM73X9qfY9AXyehJFMX491vYqlDOoiCpz1HngbLmC1-1s1g2E&_nc_ht=scontent-lga3-2.xx&oh=00_AfArOYxMkvnQnSonV8QZ1GwrlaqpEfFh6LHwBWFhBm5jnQ&oe=663A42A0",
+      avatar: "https://zszleipyxmxmhjomwqtk.supabase.co/storage/v1/object/public/avatars/a1/Rpb.jpg",
       name: "Robert Lawrence",
       title: "Co - Founder / C.T.O",
       desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
