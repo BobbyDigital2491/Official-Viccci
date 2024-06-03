@@ -51,7 +51,7 @@ const Services = () => {
                     </h1>
 
                     <p className="mt-2 text-gray-400 dark:text-white">
-                    Cenetered on innovative design and robust functionality, ensuring your app performs flawlessly and meets user expectations.
+                    Centered on innovative design and robust functionality, ensuring your app performs flawlessly and meets user expectations.
                     </p>
                     
                     <div className="flex items-center justify-between mt-4">
