@@ -13,7 +13,7 @@ const SeenHero = () => {
             <div className="w-full lg:w-2/3 xl:w-1/2">
                 
                 <p className="mt-6 tracking-tighter text-white">
-                    <span className="font-sans font-normal text-7xl">The Seen & Heard Collective</span><br />
+                    <span className="font-sans font-normal text-7xl">The Seen <span className='text-red-600'>&</span> Heard Collective</span><br />
                    
                 </p>
                 <p className="mt-12 font-sans text-base font-normal leading-7 text-white text-opacity-70">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu penatibus pellentesque dolor consequat ligula egestas massa gravida. Porttitor venenatis enim praesent.</p>
