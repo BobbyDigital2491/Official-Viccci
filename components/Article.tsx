@@ -52,7 +52,7 @@ const Article = () => {
             className="text-white bg-red-600 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px- py-2.5 me-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 focus:outline-none dark:focus:ring-blue-800"
             onClick={() => window.location.href='/SeenAndHeardCollective/JustBelieveGallery'}
             >
-            See Online Gallery
+            Just Believe Online Gallery
          </button>
 
          <button

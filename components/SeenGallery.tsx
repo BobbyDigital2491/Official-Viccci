@@ -8,15 +8,7 @@ const SeenGallery: React.FC = () => {
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmY8En6ifUnJZ1QvYb3yHnsBFqLui5yVtPDb9Tcu3xQypB",
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmVMmK8sRJJFRoKypGhenCyzG6kdxXddmGtdDoLkLfFSeh",
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmR3bTzh49zc2pYWazSYKVHXMuxKuwFjqzeDXPR6R5iind",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmQEtFMVGQSrcNdcSdN3L4ziXMy2y25gYAwQw13WDbT7Xh",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmPXcq6MZT3jbT8n6qcgvTykx3gJGLdQ8re2oXmgTMvjcm",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmYDonaHDUfe6eu8Rx9pvZmFtREgSSyG2fsiymQK7zoN4h",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/Qmd5SwVmMLRXJUL7ptMDsuKk6KULojmnkcaBvAPXXtqguG",
-    "/JustBelieve.jpg",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmR25jUesGyiGW8fd2j5rNvGYzrGWct2ofNkXnBn7Lwvzv",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmX7LDnVB6zK57oJ4ihzeTyQceUmT5byhLC8Q579Xvxafu",
-    "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmRsFKKB8FAwNCbHcNh2G4LuF9Je5TG79EV5K8N6y3QMcN",
-    "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg"
+    
   ];
 
   const openModal = (image: string) => {
