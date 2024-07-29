@@ -2,5 +2,9 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
+<<<<<<< HEAD
   "/SeenAndHeardCollective/JustBelieve": "pages/SeenAndHeardCollective/JustBelieve.js"
+=======
+  "/about": "pages/about.js"
+>>>>>>> b14ffeb833ec0c76dab5f06483cc6f197574e72b
 }

@@ -33,7 +33,7 @@ const About = () => {
         </div>
     </div>
     <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/3">
-        <img className="h-56 w-full object-cover sm:object-top md:object-top lg:object-cover sm:h-72 md:h-96 md-24 lg:w-full lg:h-full" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/437377051_10160560010122600_7008792032854683566_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y2adMTKy5tQAb4kHBAq&_nc_ht=scontent-lga3-1.xx&oh=00_AfBnJmWBWds2Jf_SrqCPaK5mtYHga-IKGn44qsf3fCu5ww&oe=662AF930" alt=""/>
+        <img className="h-56 w-full object-cover sm:object-top md:object-top lg:object-cover sm:h-72 md:h-96 md-24 lg:w-full lg:h-full" src="https://www.viccci.xyz/log.png" alt=""/>
     </div>
 </div>
   )

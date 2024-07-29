@@ -26,7 +26,7 @@ const Services = () => {
                         Web Development
                     </h1>
 
-                    <p className="mt-2 text-white dark:text-white">
+                    <p className="mt-2 text-gray-400 dark:text-white">
                     We build S.E.O friendly custom webisites for all kinds of companies. We do everything from E-commerce websites to CRM dashboards...
                     </p>
                     
@@ -50,8 +50,8 @@ const Services = () => {
                         Application Development
                     </h1>
 
-                    <p className="mt-2 text-gray-500 dark:text-white">
-                    Understanding the Basics of Blockchain and Cryptocurrency.
+                    <p className="mt-2 text-gray-400 dark:text-white">
+                    Centered on innovative design and robust functionality, ensuring your app performs flawlessly and meets user expectations.
                     </p>
                     
                     <div className="flex items-center justify-between mt-4">
@@ -74,8 +74,9 @@ const Services = () => {
                         Game Development
                     </h1>
 
-                    <p className="mt-2 text-white dark:text-white">
-                    Understanding the Basics of Blockchain and Cryptocurrency.
+                    <p className="mt-2 text-gray-400 dark:text-white">
+                   Games are created using powerful engines such like Unity and Unreal Engine, ensuring high-quality
+                   graphics and smooth performance across all platforms.
                     </p>
                     
                     <div className="flex items-center justify-between mt-4">
@@ -98,8 +99,9 @@ const Services = () => {
                        Web 3 / Blockchain Development
                     </h1>
 
-                    <p className="mt-2 text-gray-500 dark:text-white">
-                    Understanding the Basics of Blockchain and Cryptocurrency.
+                    <p className="mt-2 text-gray-400 dark:text-white">
+                    Our Web3 based sloutions offer businesses enhanced security, transparency, and efficiency,
+                    revolutionzing how businesses interact with customers and manage data.
                     </p>
                     
                     <div className="flex items-center justify-between mt-4">
@@ -120,10 +122,11 @@ const Services = () => {
                  
 
                     <h1 className="mt-4 text-xl font-semibold text-white dark:text-sky-400">
-                        Database Development</h1>
+                        Database Development </h1>
 
-                    <p className="mt-2 text-gray-500 dark:text-white">
-                    A social exchange is a decentralized platform that combines features of social media with a cryptocurrency exchange....
+                    <p className="mt-2 text-gray-400 dark:text-white">
+                    We also specialize in database development that prioritizes scalability, speed, and reliability, ensuring your business can handle large volumes of data
+                    with ease and efficiency.
                     </p>
 
                     <div className="flex items-center justify-between mt-4">                
@@ -144,7 +147,8 @@ const Services = () => {
                     </h1>
 
                     <p className="mt-2 text-gray-500 dark:text-white">
-                        The real time video chat platform built for Viccci Protocol for education, business conferences....
+                        Our process focuses on understanding your unique business needs, providing tailored solutions that align with your
+                        objectives.
                     </p>
 
                     <div className="flex items-center justify-between mt-4">
@@ -154,17 +158,17 @@ const Services = () => {
                 </div>
             </div>
             <div>
-                <img className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/consulting/2023/07/ey-person-touch-screen.jpg" alt="" />
+                <img className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://bhgqpgjoaqvoeezspsyn.supabase.co/storage/v1/object/public/viccci/bellinsider.jpg?t=2024-05-27T16%3A43%3A56.362Z" alt="" />
 
                 <div className="mt-8">
                 
 
                     <h1 className="mt-4 text-xl font-semibold text-white dark:text-sky-400">
-                        Live & In person classes
+                        Online & In person classes
                     </h1>
 
-                    <p className="mt-2 text-gray-500 dark:text-white">
-                        Using thehe real time video chat platform built for Viccci Protocol for education, business conferences....
+                    <p className="mt-2 text-gray-400 dark:text-white">
+                        Using the real time video chat platform built by Viccci Protocol used for education, business conferences, etc.
                     </p>
 
                     <div className="flex items-center justify-between mt-4">
