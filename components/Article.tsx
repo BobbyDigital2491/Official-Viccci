@@ -11,7 +11,7 @@ const Article = () => {
             <h2 className="text-2xl text-center bg-red-600 rounded-md font-bold md:text-3xl dark:text-white">
               This One is for the Books
             </h2>
-            <p className="text-lg text-gray-800 dark:text-neutral-200">
+            <p className="text-lg text-neutral-200 dark:text-neutral-200">
             Discover the magic of Latta’s career and interact with the artwork in a way you've never experienced before. 
             </p>
           </div>
@@ -27,7 +27,7 @@ const Article = () => {
             </figcaption>
           </figure>
 
-          <div className="space-y-4 text-gray-800 dark:text-neutral-200">
+          <div className="space-y-4 text-neutral-200 dark:text-neutral-200">
             <p>
             Ivory Latta, a basketball prodigy, began her illustrious career at York 
             Comprehensive High School in South Carolina, where she quickly established
