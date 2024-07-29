@@ -39,7 +39,7 @@ const SeenFooter = () => {
             <a href="/SeenAndHeardCollective/PrivacyPolicy" className="hover:text-red-600">
               Privacy Policy
             </a>
-            <a href="/terms" className="hover:text-red-600">
+            <a href="/SeenAndHeardCollective/TermsAndConditions" className="hover:text-red-600">
               Terms and Conditions
             </a>
           </div>
