@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 
-const SeenGallery = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const [selectedImage, setSelectedImage] = useState(null);
+const SeenGallery: React.FC = () => {
+  const [isOpen, setIsOpen] = useState<boolean>(false);
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
-  const images = [
+  const images: string[] = [
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmY8En6ifUnJZ1QvYb3yHnsBFqLui5yVtPDb9Tcu3xQypB",
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmVMmK8sRJJFRoKypGhenCyzG6kdxXddmGtdDoLkLfFSeh",
     "https://peach-informal-llama-875.mypinata.cloud/ipfs/QmR3bTzh49zc2pYWazSYKVHXMuxKuwFjqzeDXPR6R5iind",
@@ -19,7 +19,7 @@ const SeenGallery = () => {
     "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg"
   ];
 
-  const openModal = (image) => {
+  const openModal = (image: string) => {
     setSelectedImage(image);
     setIsOpen(true);
   };
