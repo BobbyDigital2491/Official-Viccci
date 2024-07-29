@@ -8,7 +8,7 @@ const Article = () => {
 
         <div className="space-y-5 md:space-y-8">
           <div className="space-y-3">
-            <h2 className="text-2xl text-center bg-red-600 font-bold md:text-3xl dark:text-white">
+            <h2 className="text-2xl text-center bg-red-600 rounded-md font-bold md:text-3xl dark:text-white">
               This One is for the Books
             </h2>
             <p className="text-lg text-gray-800 dark:text-neutral-200">

@@ -15,15 +15,15 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/SeenAndHeardCollective/App": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/SeenAndHeardCollective/App.js"
+    ],
+    "/SeenAndHeardCollective/JustBelieve": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/SeenAndHeardCollective/JustBelieve.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
