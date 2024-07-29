@@ -139,7 +139,7 @@ const SeenHero = () => {
                 src="https://www.youtube.com/embed/U6SCAK3HuvI?si=BorCCK1RdtsPPEX"
                 title="Promo"
                 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allow="accelerometer; autoPlay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
                 
                 

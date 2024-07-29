@@ -18,6 +18,7 @@ const JustBelieve = () => {
         <Nav2 />
         <div className='mt-16'></div>
         <JustHero/>
+        <JustPartner/>
         <JustFeature/>
         <Article/>
         
