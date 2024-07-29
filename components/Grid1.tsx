@@ -15,6 +15,31 @@ const Grid1 = () => {
         <hr className="my-8 border-gray-200 dark:border-gray-700" />
 
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-2">
+        <div>
+                
+                <img className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="/bell.png" alt="" />
+
+                <div className="mt-8">
+                    
+
+                    <h1 className="mt-4 text-xl font-semibold text-white dark:text-sky-400">
+                    Bell Business Insider
+                    </h1>
+
+                    <p className="mt-2 text-white dark:text-white">
+                    If you are interested in the tech space or already in and want to learn more about AI advances as well as Augmented Realty tech etc. then you should register for our upcoming event April 18th
+                    </p>
+                    
+                    <div className="flex items-center justify-between mt-4">
+
+
+                        <a href="/web" className="inline-block text-sky-400 underline hover:text-blue-400">Read more</a>
+                    </div>
+                    
+
+                </div>
+            </div>
+
             <div>
                 
                 <img className="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg" alt="" />
@@ -35,6 +60,7 @@ const Grid1 = () => {
 
                         <a href="/web" className="inline-block text-sky-400 underline hover:text-blue-400">Read more</a>
                     </div>
+                    
 
                 </div>
             </div>

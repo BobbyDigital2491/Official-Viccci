@@ -15,10 +15,15 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
-    "/RobertLawrence": [
+    "/SeenAndHeardCollective/JustBelieve": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/RobertLawrence.js"
+      "static/chunks/pages/SeenAndHeardCollective/JustBelieve.js"
+    ],
+    "/SeenAndHeardCollective/JustBelieveGallery": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/SeenAndHeardCollective/JustBelieveGallery.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -29,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
-    ],
-    "/team": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/team.js"
     ]
   },
   "ampFirstPages": []

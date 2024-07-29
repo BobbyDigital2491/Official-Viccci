@@ -17,13 +17,13 @@ const Upcoming = () => {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3">
             <div>
                 
-                <img className="object-full object-center w-full h-82 rounded-lg lg:h-92" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/435386734_10160538690842600_1232768833721755427_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_YDfiHI4_gYAb7UOnqv&_nc_ht=scontent-lga3-1.xx&oh=00_AfCpIRWflEBWVbhX_sjyyuQQWElgn-bAxzRl8_gVhA2QYg&oe=661A103C" alt="" />
+                <img className="object-full object-center w-full h-82 rounded-lg lg:h-92" src="/JustBelieve.jpg" alt="" />
 
                 <div className="mt-8">
                     
 
                     <h1 className="mt-4 text-xl font-semibold text-white dark:text-sky-400">
-                        Bell Business Insider
+                        Just Believe Art Experience
                     </h1>
 
                     <p className="mt-2 text-white dark:text-white">
