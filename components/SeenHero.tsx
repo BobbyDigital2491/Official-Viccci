@@ -16,7 +16,7 @@ const SeenHero = () => {
                     <span className="font-sans font-normal text-7xl">The Seen <span className='text-red-600'>&</span> Heard Collective</span><br />
                    
                 </p>
-                <p className="mt-12 font-sans text-base font-normal leading-7 text-white text-opacity-70">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu penatibus pellentesque dolor consequat ligula egestas massa gravida. Porttitor venenatis enim praesent.</p>
+                <p className="mt-12 font-sans text-base font-normal leading-7 text-white text-opacity-70">Explore innovative products like never before with the Seen & Heard Collective app. Download today to experience interactive features, exclusive offers, and a unique way to connect with the latest trends and must-have items.</p>
                 <p className="mt-8 font-sans text-xl font-normal text-white">Available for free on Apple Devices</p>
 
                 <div className="flex items-center mt-5 space-x-3 sm:space-x-4">
