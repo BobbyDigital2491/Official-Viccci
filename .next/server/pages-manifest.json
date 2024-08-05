@@ -1,5 +1,8 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js"
+  "/_error": "pages/_error.js",
+  "/SeenAndHeardCollective/DrueWoleGallery": "pages/SeenAndHeardCollective/DrueWoleGallery.js",
+  "/SeenAndHeardCollective/JustBelieve": "pages/SeenAndHeardCollective/JustBelieve.js",
+  "/SeenAndHeardCollective/JustBelieveGallery": "pages/SeenAndHeardCollective/JustBelieveGallery.js"
 }
