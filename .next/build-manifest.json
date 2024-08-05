@@ -15,15 +15,15 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
-    "/SeenAndHeardCollective/App": [
+    "/SeenAndHeardCollective/DrueWoleGallery": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/SeenAndHeardCollective/App.js"
+      "static/chunks/pages/SeenAndHeardCollective/DrueWoleGallery.js"
     ],
-    "/SeenAndHeardCollective/JustBelieve": [
+    "/SeenAndHeardCollective/JustBelieveGallery": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/SeenAndHeardCollective/JustBelieve.js"
+      "static/chunks/pages/SeenAndHeardCollective/JustBelieveGallery.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",

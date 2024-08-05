@@ -7,6 +7,7 @@ import Article from '../../components/Article'
 import JustPartner from '../../components/JustPartner'
 import JustFeature from '../../components/JustFeature'
 import SeenFooter from '../../components/SeenFooter'
+import JustCta from '../../components/JustCta'
 
 const JustBelieve = () => {
   return (
@@ -21,6 +22,7 @@ const JustBelieve = () => {
         <JustPartner/>
         <JustFeature/>
         <Article/>
+        <JustCta/>
         
         <SeenFooter/>
 
